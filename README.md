@@ -1,4 +1,4 @@
 # Pathogenomics_EMP
 Pathogenetic analysis reveals clinically relevant epithelial-mesenchymal plasticity in esophageal squamous carcinoma
 
-<img width="720" height="1080" alt="figure1_00" src="https://github.com/user-attachments/assets/e9e8c6dd-1b7b-43d1-bf54-4bbc62779aa8" />
+<img width="1440" height="2160" alt="figure1_00" src="https://github.com/user-attachments/assets/811150f4-1199-4ac1-8823-6b86c1f24ef8" />
